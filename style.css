@@ -25,6 +25,7 @@ position: absolute;
 h1{
     margin-left: 135px;
     margin-top: 55px;
+
 }
 .details{
     margin-bottom: 30px;
@@ -57,10 +58,12 @@ h1{
 }
 .remember{
     font-size: 15px;
+    font-weight: 570;
 }
 .forgot-password{
     font-size: 15px;
     margin-left: 90px;
+    font-weight: 550;
 }
 .login-button{
     width: 270px;
@@ -73,12 +76,16 @@ h1{
     border: none;
     font-size: 18px;
     font-weight: 700;
-    color: green;
 }
 p{
     text-align: center;
     font-size: 15px;
+    font-weight: 500;
 }
 a{
     text-decoration: none;
+}
+.register-link{
+    color: white;
+    font-weight: 900;
 }
