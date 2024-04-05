@@ -28,7 +28,7 @@ h1{
 
 }
 .details{
-    margin-bottom: 25px;
+    margin-bottom: 15px;
 }
 
 .username{
@@ -41,6 +41,7 @@ h1{
     color: white;
     font-size: 16px;
     border:  2px solid green;
+    outline: none;
 }
 .password{
     margin: 2px;
@@ -52,6 +53,7 @@ h1{
     color: white;
     font-size: 16px;
     border:  2px solid green;
+    outline: none;
 }
 .check{
     margin-left: 10px;
@@ -111,7 +113,7 @@ a{
         font-size: 14px;
     }
     .forgot-password{
-        margin-left: 30px;
+        margin-left: 40px;
         font-size: 14px;
     }
     .login-button{
