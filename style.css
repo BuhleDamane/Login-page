@@ -43,6 +43,7 @@ h1{
     border:  2px solid green;
     outline: none;
     margin-bottom: 10px;
+    font-weight: 700;
 }
 #password{
     margin: 2px;
@@ -52,10 +53,11 @@ h1{
     background-color: rgba(0, 0, 0, 0.1);
     padding: 0 10px;
     color: white;
-    font-size: 16px;
+    font-size: 13px;
     border:  2px solid green;
     outline: none;
     margin-bottom: 10px;
+    font-weight: 700;
 }
 .check{
     margin-left: 10px;
