@@ -18,19 +18,20 @@
             Login
         </h1>
        
-        <form>
-            <div class="details">
-            <input type="text" placeholder="Username" class="username">
-            <input type="password" placeholder="Password" class="password">
+        <form id="details">
+            <div >
+            <input type="text" placeholder="Username" id="username" required>
+            <input type="password" placeholder="Password" id="password" required>
         </div>
             <div class="check">
             <input type="checkbox"><span class="remember">Remember Me</span> <span class="forgot-password">Forgot Password?</span>
             </div>
+            <div>
+                <button class="login-button"> Login</button>
+               
+            </div>
         </form>
-        <div>
-            <button class="login-button"> Login</button>
-           
-        </div>
+       
         <p class="register">
             Don't have an account? <a href="#" class="register-link">Register!</a>
         </p>
