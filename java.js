@@ -9,7 +9,7 @@ let password = document.getElementById("password").value;
   // Check if the username and password match the expected values
   if (username === "Visitor" && password === "Visitor.com") {
     // If correct, alert the user
-    alert("Login successful! Username: " + username + ", Password: " + password);
+    alert("Login successful!");
   } else {
     // If incorrect, update the input fields to show an error message
     alert("Enter correct login details.")
